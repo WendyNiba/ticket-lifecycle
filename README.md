@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lar5wWX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Ticket examples:
@@ -42,7 +42,7 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 </p>
 <br />
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/lar5wWX.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lar5wWX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log back into your End Users osTicket URL
